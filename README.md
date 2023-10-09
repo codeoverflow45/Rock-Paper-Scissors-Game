@@ -13,8 +13,8 @@ This is a simple Rock Paper Scissors game developed using HTML, CSS, and JavaScr
 
 Live Link: https://codeoverflow45.github.io/Rock-Paper-Scissors-Game/
 
-###Preview Page
-![Screenshot]([screenshots/screenshot1.png](https://github.com/codeoverflow45/Rock-Paper-Scissors-Game/blob/main/Screenshot.png.png))
+## Preview Page
+![Screenshot](https://github.com/codeoverflow45/Rock-Paper-Scissors-Game/blob/main/Screenshot.png.png)
 
 
 ## Getting Started
