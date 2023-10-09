@@ -11,14 +11,18 @@ This is a simple Rock Paper Scissors game developed using HTML, CSS, and JavaScr
 
 ## Demo
 
-[Include a link to the live demo or screenshots of the game]
+Live Link: https://codeoverflow45.github.io/Rock-Paper-Scissors-Game/
+
+###Preview Page
+![Screenshot]([screenshots/screenshot1.png](https://github.com/codeoverflow45/Rock-Paper-Scissors-Game/blob/main/Screenshot.png.png))
+
 
 ## Getting Started
 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/rock-paper-scissors-game.git
+    git clone https://github.com/codeoverflow45/Rock-Paper-Scissors-Game.git
     ```
 
 2. **Open the `index.html` file in a web browser.**
