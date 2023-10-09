@@ -11,14 +11,19 @@ This is a simple Rock Paper Scissors game developed using HTML, CSS, and JavaScr
 
 ## Demo
 
-[Include a link to the live demo or screenshots of the game]
+Live Link: https://codeoverflow45.github.io/Rock-Paper-Scissors-Game/
+
+
+### Preview Page
+![Screenshot](https://github.com/codeoverflow45/Rock-Paper-Scissors-Game/blob/main/Screenshot.png.png)
+
 
 ## Getting Started
 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/rock-paper-scissors-game.git
+    git clone https://github.com/codeoverflow45/Rock-Paper-Scissors-Game.git
     ```
 
 2. **Open the `index.html` file in a web browser.**
@@ -43,7 +48,7 @@ The winner is determined based on these rules.
 ## Audio Effects
 
 - **Button Clicks**: A click sound is played when the player makes a move.
-- **Score Increases**: A different sound is played when the player's score increases.
+- **Score Increases**: A different sound is played when the player's score increases from computer score.
 
 Audio files (`click-sound.mp3` and `score-increase.mp3`) are included in the project. You can customize or replace them as needed.
 
