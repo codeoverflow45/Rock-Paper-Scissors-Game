@@ -48,7 +48,7 @@ The winner is determined based on these rules.
 ## Audio Effects
 
 - **Button Clicks**: A click sound is played when the player makes a move.
-- **Score Increases**: A different sound is played when the player's score increases.
+- **Score Increases**: A different sound is played when the player's score increases from computer score.
 
 Audio files (`click-sound.mp3` and `score-increase.mp3`) are included in the project. You can customize or replace them as needed.
 
